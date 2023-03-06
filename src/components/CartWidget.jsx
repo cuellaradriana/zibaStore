@@ -4,7 +4,7 @@ const CartWidget = () => {
   return (
     <div>
       <span className="material-symbols-outlined">local_mall</span>
-      <span>6</span>
+      <span className="quantity">6</span>
     </div>
   );
 };

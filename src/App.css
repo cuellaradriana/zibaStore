@@ -31,3 +31,17 @@
   font-weight: bold;
   color: peru;
 }
+
+.material-symbols-outlined{
+  color: crimson;
+  font-weight: bold;
+  font-size: 2rem;
+
+}
+
+.quantity{
+  font-weight: bold;
+  border: 1px solid crimson;
+  padding: 5px;
+  border-radius: 70%;
+}
